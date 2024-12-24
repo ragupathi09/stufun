@@ -2,3 +2,4 @@ Flask
 azure-functions
 requests
 pytest
+redis
