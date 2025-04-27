@@ -4,6 +4,6 @@ requests
 pytest
 redis
 ragu
-aws./...../.
+aws./...../.....
 azureS
 
