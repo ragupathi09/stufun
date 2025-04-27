@@ -3,3 +3,4 @@ azure-functions
 requests
 pytest
 redis
+ragu
